@@ -4,4 +4,4 @@ All notable changes to the "stevens-knapsack" extension pack will be documented 
 
 ## 1.0.0
 
-Intial Release — 2019-02-18
+Initial Release — 2019-02-18

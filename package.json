@@ -3,7 +3,11 @@
   "publisher": "snchildress",
   "displayName": "Steven's Knapsack",
   "description": "A wonderful collection of VSCode extensions",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snchildress/stevens-knapsack"
+  },
   "engines": {
     "vscode": "^1.31.0"
   },
