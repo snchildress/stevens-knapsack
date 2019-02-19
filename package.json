@@ -1,0 +1,37 @@
+{
+  "name": "stevens-knapsack",
+  "publisher": "snchildress",
+  "displayName": "Steven's Knapsack",
+  "description": "A wonderful collection of VSCode extensions",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.31.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "aaron-bond.better-comments",
+    "anseki.vscode-color",
+    "bungcip.better-toml",
+    "CoenraadS.bracket-pair-colorizer",
+    "DavidAnson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "eriklynd.json-tools",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "gerane.Theme-Dark-Dracula",
+    "GitHub.vscode-pull-request-github",
+    "jtr.vscode-position",
+    "magicstack.MagicPython",
+    "marinamcgrath.marinas-backpack",
+    "mechatroner.rainbow-csv",
+    "ms-python.python",
+    "ms-vscode.Go",
+    "PeterJausovec.vscode-docker",
+    "quicktype.quicktype",
+    "sozercan.slack"
+  ]
+}
