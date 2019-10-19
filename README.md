@@ -7,6 +7,7 @@ Steven's Knapsack is a collection of useful VSCode extension. Its contents are f
 - Golang syntax highlighting, linter, and autoformatting
 - CSV syntax highlighting
 - Bracker pair highlighting
+- Indentation highlighting
 - Official GitHub extension
 - In-line Git information
 - Official Docker extension
