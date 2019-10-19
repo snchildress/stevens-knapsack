@@ -3,7 +3,7 @@
   "publisher": "snchildress",
   "displayName": "Steven's Knapsack",
   "description": "A wonderful collection of VSCode extensions",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/snchildress/stevens-knapsack"
@@ -21,6 +21,7 @@
     "CoenraadS.bracket-pair-colorizer",
     "DavidAnson.vscode-markdownlint",
     "dbaeumer.vscode-eslint",
+    "dracula-theme.theme-dracula",
     "eamodio.gitlens",
     "eriklynd.json-tools",
     "esbenp.prettier-vscode",
@@ -34,6 +35,7 @@
     "mechatroner.rainbow-csv",
     "ms-python.python",
     "ms-vscode.Go",
+    "oderwat.indent-rainbow",
     "PeterJausovec.vscode-docker",
     "quicktype.quicktype",
     "sozercan.slack"
